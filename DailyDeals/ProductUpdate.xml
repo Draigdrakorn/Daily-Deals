@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<product>
+  <value>7</value>
+  <userlog>
+    <userlogged>false</userlogged>
+    <useremail>
+    </useremail>
+    <admin>false</admin>
+  </userlog>
+</product>

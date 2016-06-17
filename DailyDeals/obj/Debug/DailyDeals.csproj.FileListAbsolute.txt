@@ -1,0 +1,30 @@
+F:\My Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DailyDeals.dll.config
+F:\My Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DailyDeals.dll
+F:\My Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DailyDeals.pdb
+F:\My Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.dll
+F:\My Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.pdb
+F:\My Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.csprojResolveAssemblyReference.cache
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DailyDeals.dll.config
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DailyDeals.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DailyDeals.pdb
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.csprojResolveAssemblyReference.cache
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.pdb
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\BLL.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\Info.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DLL.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\BLL.pdb
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\Info.pdb
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\DailyDeals\bin\DLL.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\DailyDeals.dll.config
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\DailyDeals.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\DailyDeals.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\BLL.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\Info.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\DLL.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\BLL.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\Info.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\bin\DLL.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.csprojResolveAssemblyReference.cache
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\DailyDeals\obj\Debug\DailyDeals.pdb

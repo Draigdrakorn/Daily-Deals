@@ -1,0 +1,15 @@
+C:\Users\Shree\Documents\Visual Studio 2012\Projects\Daily\Info\bin\Debug\Info.dll
+C:\Users\Shree\Documents\Visual Studio 2012\Projects\Daily\Info\bin\Debug\Info.pdb
+C:\Users\Shree\Documents\Visual Studio 2012\Projects\Daily\Info\obj\Debug\Info.dll
+C:\Users\Shree\Documents\Visual Studio 2012\Projects\Daily\Info\obj\Debug\Info.pdb
+C:\Users\Shree\Documents\Visual Studio 2012\Projects\Daily\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\Info\bin\Debug\Info.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\Info\bin\Debug\Info.pdb
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\Info\obj\Debug\Info.dll
+C:\Users\DraigDrakorn\Documents\Visual Studio 2013\Projects\DailyDeals\Info\obj\Debug\Info.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\Info\bin\Debug\Info.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\Info\bin\Debug\Info.pdb
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\Info\obj\Debug\Info.dll
+C:\Users\draig\Documents\Visual Studio 2015\Projects\DailyDeals\Info\obj\Debug\Info.pdb
